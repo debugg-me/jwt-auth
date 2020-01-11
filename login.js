@@ -4,5 +4,5 @@
  * else throw error
  */
 
-module.exports = function login (loginData, jwtSecret) {
+module.exports = function login (loginData) {
 }
