@@ -1,0 +1,11 @@
+{
+    "user": {
+        "username": "elonMusk",
+        "id": "507f1f77bcf86cd799439011",
+        "password": "$2b$10$7uRMBCBqlUmejoqR/QVzwujADVomX2gDleV.yhcbSi7q2yKuK5XVq"
+    },
+    "jwt": {
+        "secret": "controlIsAnIllusion",
+        "expiresIn": "2s"
+    }
+}

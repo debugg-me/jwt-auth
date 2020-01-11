@@ -1,0 +1,27 @@
+{
+  "name": "jwt-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login.js",
+  "dependencies": {
+    "bcrypt": "^3.0.7",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debugg-xyz/jwt-auth.git"
+  },
+  "keywords": [],
+  "author": "Syed Faraaz Ahmad <faraaz98@live.com> (https://faraazahmad.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debugg-xyz/jwt-auth/issues"
+  },
+  "homepage": "https://github.com/debugg-xyz/jwt-auth#readme"
+}
