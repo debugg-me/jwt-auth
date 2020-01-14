@@ -1,5 +1,5 @@
 **Problem statement:**
-Eve is creating an app for her startup, she wants to add authentication to it now.
+Ada is creating an app for her startup, she wants to add authentication to it now.
 So she starts by creating a `login` function on the backend. It takes a user's 
 credentials (username/password) and returns a JWT if the password is right. Help her
 implement the `login` function.
