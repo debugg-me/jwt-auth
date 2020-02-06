@@ -16,6 +16,13 @@ When the login function is called with the right user credentials,
 it should return a JWT, with `username` and [`iat`](https://en.wikipedia.org/wiki/JSON_Web_Token)
 encoded in it.
 
+#### Throw error when invalid credentials are passed
+
+```JS
+> login({ username: 'example_user', password: 'notapassword' })
+// => InvalidCrendtialsError('Invalid username or password')
+```
+
 When incorrect credentials are passed to `login()`, it should throw an `InvalidCredentialsError`
 
 ### User credentials
