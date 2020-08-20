@@ -4,7 +4,7 @@
   "description": "",
   "main": "login.js",
   "dependencies": {
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "jsonwebtoken": "^8.5.1"
   },
   "devDependencies": {
